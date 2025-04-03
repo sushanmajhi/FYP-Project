@@ -8,6 +8,5 @@ Tech Stack Selection:
         - Database: MongoDB
         - Authentication: Firebase or Django’s built-in auth
         - Video API: Zoom API
-GitHub Repository Created: https://github.com/yourusername/skill-sharing-network
 Log File Drafted: Created a structured log file to track project activities.
 
