@@ -10,3 +10,16 @@ Tech Stack Selection:
         - Video API: Zoom API
 Log File Drafted: Created a structured log file to track project activities.
 
+
+
+
+Last week's progress:
+1.
+2.
+3.
+
+
+Plan for the upcoming week:
+1.
+2.
+3.
