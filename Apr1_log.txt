@@ -28,7 +28,53 @@ C --> E(Find Gamers)
 E --> F(Send Friend Requests)
 F --> G(Build Friends List)
 C --> H(Logout)
-3.
+
+3.PlayProfile Workflow
+1. Home Page
+Welcome message
+Options: Login | Sign Up
+
+2. Sign Up / Login
+New users create account (Username, Email, Password)
+Existing users log in
+
+3. Dashboard (After Login)
+Menu Options:
+View My Profile
+Edit Profile
+Find Gamers
+Friends List
+Logout
+
+4. Create / Edit Profile
+Upload profile picture
+Add gaming name
+Select favorite games
+Select platform(s): PC, PS5, Xbox, Mobile
+Add short bio
+
+5. Find Gamers
+Search by:
+Game name
+Platform
+Skill level
+View other gamers' profiles
+
+6. Friend Requests
+Send friend requests to gamers
+Accept or decline incoming requests
+
+7. Friends List
+View your friends
+See friends' profiles
+Option to remove friends
+
+8. Settings (Optional)
+Update account details
+Privacy settings (who can view profile)
+
+9. Logout
+Safely log out from account
 
 
 Plan for the upcoming week:
