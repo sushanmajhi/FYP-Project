@@ -14,11 +14,15 @@ Log File Drafted: Created a structured log file to track project activities.
 
 
 Last week's progress:
-1.My new project idea is called PlayProfile. It's a social network for gamers to build their gaming profiles, showcase their favorite games, and make new gamer friends. The problem today is that gamers are spread across many platforms with no easy way to connect.
+1.
+## Project Idea
+PlayProfile is a social network for gamers to build gaming profiles, show favorite games, and connect with other gamers across all platforms (PC, PS5, Xbox, Mobile).
 
-My new project idea is to create an open website where players from PC, PS5, Xbox, and Mobile can create profiles, showcase their gaming identity, and find other gamers. This platform will provide gamers with a centralized space to connect and find others who share similar gaming interests, no matter what platform they play on.
+## Problem
+Gamers today are spread across many platforms without an easy way to connect socially.
 
-Main features include profile creation, editing, gamer search, and friend connections. It’s simple, cross-platform, and profile-focused compared to other existing solutions.
+## Solution
+An open, cross-platform website focused only on gaming profiles and gamer friendships.
 
 2.PlayProfile Simple Workflow
 A(Home Page) --> B(Login / Sign Up)
