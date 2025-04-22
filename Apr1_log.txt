@@ -24,7 +24,8 @@ Gamers today are spread across many platforms without an easy way to connect soc
 ## Solution
 An open, cross-platform website focused only on gaming profiles and gamer friendships.
 
-2.PlayProfile Simple Workflow
+2.
+PlayProfile Simple Workflow
 A(Home Page) --> B(Login / Sign Up)
 B --> C(Dashboard)
 C --> D(Create / Edit Profile)
@@ -33,7 +34,8 @@ E --> F(Send Friend Requests)
 F --> G(Build Friends List)
 C --> H(Logout)
 
-3.PlayProfile Workflow
+3.
+PlayProfile Workflow
 1. Home Page
 Welcome message
 Options: Login | Sign Up
