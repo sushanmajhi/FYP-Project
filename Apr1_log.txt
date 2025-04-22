@@ -1,6 +1,6 @@
 Project Log - Community Skill-Sharing Network(SkillSwap)
 
-Project Idea Finalized: Decided on Community Skill-Sharing Network as the final year project.
+Project Idea : Decided on Community Skill-Sharing Network as the final year project.
 Feature Planning: Outlined core features - skill listings, search filters, scheduling, and Zoom API integration.
 Tech Stack Selection: 
         - Frontend: React.js
