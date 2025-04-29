@@ -1,0 +1,8 @@
+This week
+I initialized a Git repository and created the base project folder structure, including separate folders for the frontend (React) and backend (Django).
+
+I set up a Python virtual environment and installed Django and Django REST Framework for the backend.
+
+I created a new Django project named backend.
+
+For the frontend, I initialized a new React project using Vite with the TypeScript + SWC template.
