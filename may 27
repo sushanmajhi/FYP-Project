@@ -1,0 +1,34 @@
+# Last Week's Progress
+1. Built a Django polls app with templates and views.  
+2. Added index, detail, and results templates to display polls.  
+3. Implemented views for listing, detail, voting, and results.
+
+##Literature Review
+1. Deterding, S., Dixon, D., Khaled, R. and Nacke, L. (2011)
+From game design elements to gamefulness: defining gamification. In: Proceedings of the 15th International Academic MindTrek Conference. ACM, pp.9–15.
+Relevance: Provides a foundational definition of gamification and explains how elements like badges and levels contribute to user motivation—core to your engagement strategy.
+
+2. Kietzmann, J.H., Hermkens, K., McCarthy, I.P. and Silvestre, B.S. (2011)
+Social media? Get serious! Understanding the functional building blocks of social media. Business Horizons, 54(3), pp.241–251.
+Relevance: Breaks down the key components of social media platforms (e.g., identity, presence, relationships), useful for designing user profiles and friend systems.
+
+3. React Documentation (Meta, 2024)
+Introducing React – A JavaScript library for building user interfaces. Available at: https://react.dev/
+Relevance: Official source for using React to build modern, dynamic, and responsive UIs for your frontend.
+
+4. Wilson, C. (2013)
+User Interface Inspection Methods: A Guide for Engineers, Designers, and Managers. Morgan Kaufmann.
+Relevance: Offers methods for evaluating UI/UX, supporting your testing and accessibility improvement process using tools like Lighthouse.
+
+5. Fielding, R.T. (2000)
+Architectural Styles and the Design of Network-based Software Architectures. Doctoral dissertation, University of California.
+Relevance: Origin of REST architecture. Explains REST principles that guide the structure of your Django REST API integration.
+
+6. Bakker, G. and Huinink, H. (2022)
+Cross-platform development: Best practices for building applications on multiple platforms. Software Engineering Notes, 47(2), pp.45–51.
+Relevance: Reviews techniques and frameworks for designing apps that work across web, mobile, and desktop—matches your cross-platform identity goal.
+
+7. Zhao, D., Lu, Y. and Wang, B. (2020)
+Building trust in social networking apps: Understanding users’ security and privacy concerns. Information & Management, 57(6), p.103319.
+Relevance: Helps justify the importance of secure profile controls and trust features in your app, especially around friend permissions and visibility settings.
+
