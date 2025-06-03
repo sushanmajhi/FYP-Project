@@ -1,0 +1,41 @@
+## Last Week's Progress
+1. List of Themes and Literature Review on One Theme
+Themes Relevant to the Project
+Cross-platform gamer identity and networking
+
+Gamification and user retention
+
+UI/UX design and accessibility in web applications
+
+REST API design and integration
+
+Secure authentication and user privacy
+
+Frontend-backend architecture using React and Django
+
+Social discovery and online community engagement
+
+Literature Review on Theme: Gamification and User Retention
+Gamification is a powerful tool to enhance user motivation, especially in digital platforms that aim to build communities. In the context of GameSphare, it plays a key role in encouraging users to engage with the platform over time.
+
+Hamari and Koivisto (2015) discuss how gamification elements such as badges, levels, and stats contribute to user satisfaction and continuous use. Their study in the International Journal of Information Management supports GameSphare’s plan to incorporate profile-based achievements and badges to increase engagement.
+
+Further, Deterding et al. (2011) define gamification as “the use of game design elements in non-game contexts” and highlight how meaningful implementation — beyond points and leaderboards — drives long-term participation. GameSphare applies this by offering identity-based gamification, such as tracking a user’s gaming history, skill level, and platform preference.
+
+Finally, Taylor (2018) emphasizes how modern gamers want to showcase their playstyles, achievements, and social presence. GameSphare allows users to do exactly that through customizable profiles and visible progress, creating a platform that blends utility with motivation.
+
+2. Features of the GameSphare Project
+Feature	Description
+Gamer Profile Creation	- Users can create and edit detailed profiles, including avatar, bio, platform info, and game preferences.
+Cross-Platform Identity	- Link accounts from PC, Xbox, PlayStation, or Mobile to unify a gamer’s presence.
+Search & Filter System	- Find other gamers based on platform, game title, region, or skill level.
+Friend Request System	  - Send and accept friend requests, build a friends list, and view shared interests.
+Private Messaging	      - Secure one-on-one chat between connected users.
+Gamification Features	  - Earn badges and profile stats based on activity and engagement.
+Responsive UI/UX	      - Clean, accessible design using React and Tailwind CSS, compatible with all devices.
+Authentication & Privacy -	Login/signup with Django or JWT; users control visibility of their profiles.
+Accessibility Compliance	- Designed with WCAG 2.1 standards for screen readers, keyboard navigation, and contrast.
+Deployment & CI/CD	- Hosted via Heroku (backend) and Vercel/Netlify (frontend) with GitHub integration.
+
+## This Week
+
