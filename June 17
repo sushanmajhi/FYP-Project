@@ -1,1 +1,12 @@
 # last week's progress
+1. Created & Styled Navbar:
+
+Designed a responsive Bootstrap navbar that spans the full screen width.
+
+Added navigation links: Home, Features, Log In, Sign Up.
+
+2. Built the Home Page:
+
+Implemented a clean, professional hero section.
+
+Added feature cards for Create Profiles, Connect With Friends, Discover Gamers.
