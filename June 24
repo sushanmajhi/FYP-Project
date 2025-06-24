@@ -1,0 +1,8 @@
+Last's week progress
+
+1. Set up a Python virtual environment and initialized a Django project correctly within the backend folder.
+2. Installed and configured Django REST Framework for API development.
+3. Installed and enabled CORS headers to allow communication between the Django backend and React frontend.
+4.Installed and configured JWT authentication using djangorestframework-simplejwt.
+5.Created a new Django app named users and registered it in the project settings.
+
