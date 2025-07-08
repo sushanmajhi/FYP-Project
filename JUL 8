@@ -1,3 +1,4 @@
 ##Last Week's Progress:
 
 1. Designed and implemented a Signup page with form validation, password confirmation, and success/error alerts.
+2. Built a Login page in React,  and working on Django JWT endpoint (/api/token/) to send the data from the frontend 
