@@ -1,0 +1,12 @@
+##lasts Weeks Progress
+
+Displayed success and error messages using Bootstrap alerts.
+Included a password visibility toggle using a checkbox.
+On successful login:
+•	Stored access and refresh tokens in localStorage.
+•	Displayed success message.
+•	Reset form fields.
+Updated REST_FRAMEWORK in settings.py to use JWTAuthentication.
+Set up JWT token URLs in urls.py:
+•	/api/token/ for login (token generation)
+•	/api/token/refresh/ for refreshing access tokens
