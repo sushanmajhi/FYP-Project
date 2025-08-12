@@ -1,0 +1,8 @@
+
+## Last's  Week's Progress:
+1. Tried running your Django backend server but encountered Python environment issues because the Python executable wasn’t found.
+2. Faced issues with missing manage.py and incorrect directory locations, which caused errors when running Django commands.
+3. Created a fresh Django project (backend_project) and an app (accounts) inside your backend folder.4
+4. Implemented a user registration API endpoint with serializers, views, and URL routing.
+5. Learned how to test your API using Postman with step-by-step instructions for sending a POST request to your registration API endpoint.
+6. Encountered issues when trying to test the API with Postman (Postman didn’t work as expected)
