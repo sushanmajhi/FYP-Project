@@ -1,4 +1,3 @@
-
 ## Last's  Week's Progress:
 1. Tried running your Django backend server but encountered Python environment issues because the Python executable wasn’t found.
 2. Faced issues with missing manage.py and incorrect directory locations, which caused errors when running Django commands.
