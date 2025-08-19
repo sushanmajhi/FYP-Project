@@ -1,11 +1,10 @@
 ##Last Week's Progress
 1. Installed the Axios library using npm install axios.
 2. Used Axios to make HTTP requests from React to the Django backend.
-3 .Set up React Router in App.js for routes like /, /login, and /signup.
+3 .Set up React Router in App.js for routes like /signup /login.
 4. Used Axios POST request to send registration data to Django REST API
 5. Defined a Register model for user registration.
-6. Created API views (using DRF APIView or function-based views) to handle registration.
-7. Added URL patterns in register/urls.py and included them in the main backend_project/urls.py.
-8. Opened Postman to test the registration endpoint (POST /api/register/).
-9. Sent JSON payload with username, email, and password.
-10. Understood that registration data is stored in the Django database and can later be accessed via admin.
+6. Created API views (using DRF APIView and function-based views) to handle registration.
+7. Opened Postman to test the registration endpoint (POST /api/register/).
+8. Sent JSON payload with username, email, and password.
+9. Understood that registration data is stored in the Django database and can later be accessed via admin.
