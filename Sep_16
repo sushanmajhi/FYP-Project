@@ -1,0 +1,10 @@
+##Last Week's Progress
+Created a React Login component with form fields for username and password.
+Added client-side validation to check if fields are empty.
+Used Axios to send POST requests to Django REST API for login.
+Created LoginUser APIView in Django:
+Added Token authentication using rest_framework.authtoken.
+Created UserProfile APIView in Django with IsAuthenticated permission:
+
+## Upcoming Week
+Planning to start dashboard with skills, bio, platforms selection, etc
