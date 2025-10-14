@@ -5,3 +5,10 @@ Added real-time profile updates with immediate UI reflection
 Set up a profile picture upload and management system
 Built a gaming preferences section for skills and game selections
 Implemented platform connectivity (Steam, Xbox, PlayStation, Epic Games)
+
+
+## Upcoming Weeks
+Design a responsive profile layout with organized sections
+Implement edit/save/cancel functionality
+Add validation for profile field inputs
+Create an achievement badge display system
