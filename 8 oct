@@ -7,3 +7,10 @@ Set up protected routes that require valid JWT tokens
 Implemented automatic redirect to login for unauthenticated users
 Added authentication state persistence across page refreshes
 Created secure route handling for all dashboard sections
+
+## Upcoming Weeks
+Create a comprehensive user profile system with bio, skills, games, and platform data
+Implement profile viewing and editing functionality
+Add real-time profile updates with immediate UI reflection
+Set up a profile picture upload and management system
+Built a gaming preferences section for skills and game selections
