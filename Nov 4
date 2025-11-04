@@ -1,3 +1,10 @@
 last weeks progress
- 1. started working on my A3 Dissertation
-d
+1. started working on my A3 Dissertation
+2. Implemented search functionality to find other gamers
+3. Added filtering by games, platforms, and skills
+4. Created "Add Friend" integration from search results
+
+Upcomming week progress
+1. I will implement a conversation list with a last message preview.
+2. I will add message sending and receiving functionality.
+3. I will create a system to track read and unread message statuses.
