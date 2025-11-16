@@ -1,7 +1,9 @@
 ## Last week's progress
 
-. Implemented a conversation list with a last message preview.
+1. Implemented a conversation list with a last message preview.
 2. Added message sending and receiving functionality.
 3. Created a system to track read and unread message statuses.
 
-##Upcomming week progress
+## Upcoming week progress
+I will create a tournament listing page with upcoming and ongoing tournaments.
+I will implement tournament registration functionality for users.
